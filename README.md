@@ -1,5 +1,5 @@
 ---INTRODUCTION---
-This script will configure your linux firewall to block some IPv4 ranges from accessing your computer and your computer being accessed by those IPv4 ranges.
+This script will configure your linux firewall to block your computer from accessing some IPv4 ranges and your computer being accessed by those IPv4 ranges.
 
 	---INSTALLATION---
 		# git clone https://github.com/independentcod/iptables_CIDR_drop.git
